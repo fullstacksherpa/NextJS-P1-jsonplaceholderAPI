@@ -1,5 +1,5 @@
 type Post = {
-    "userId": number,
+    "userId": sting,
     "id": number,
     "title": string,
     "body": string,
